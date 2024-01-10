@@ -87,6 +87,9 @@ hide_toolbar_css = """
 footer {
     visibility: hidden;
 }
+.css-1y4p8pa {
+    padding-top: 1rem;
+} 
 </style>
 """
 st.markdown(hide_toolbar_css, unsafe_allow_html=True)
